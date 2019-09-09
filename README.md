@@ -16,6 +16,7 @@
 | [ISSUE 3 查詢移民政策之必要](https://theuselesszine.curated.co/issues/3)   | [@venetiachou](https://github.com/venetiachou)|
 | [ISSUE 4 日本的珍珠奶茶沒有比較好喝](https://theuselesszine.curated.co/issues/4) | [@jiajhenbee](https://github.com/jiajhenbee)|
 | [ISSUE 5 人活得好好的，為什麼要工作？](https://theuselesszine.curated.co/issues/5) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 6 我，以及我以外的世界](https://theuselesszine.curated.co/issues/6) | [@psychotalksaboutflims](https://cur.at/eLjduZW?m=web)|
 
 
 ## 一些寫給主編看的，懂？
