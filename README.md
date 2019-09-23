@@ -17,6 +17,7 @@
 | [ISSUE 4 日本的珍珠奶茶沒有比較好喝](https://theuselesszine.curated.co/issues/4) | [@jiajhenbee](https://github.com/jiajhenbee)|
 | [ISSUE 5 人活得好好的，為什麼要工作？](https://theuselesszine.curated.co/issues/5) | [@venetiachou](https://github.com/venetiachou)|
 | [ISSUE 6 我，以及我以外的世界](https://theuselesszine.curated.co/issues/6) | [@psychotalksaboutflims](https://cur.at/eLjduZW?m=web)|
+| [ISSUE 7 我們決定在沒人用的鈔票上使用圖靈的肖像](https://theuselesszine.curated.co/issues/7) | [@bugtender](https://github.com/bugtender)|
 
 
 ## 一些寫給主編看的，懂？
@@ -32,7 +33,7 @@
   - 連結上要寫為什麼寫這篇文，你只要寫得出來要分享什麼都可以。
 
 ### 編輯方法
-  - 我們是用 curated 搜集內容，可以直接金入 curated 後台將連結跟內文丟進去編輯即可。
+  - 我們是用 curated 搜集內容，可以直接進入 curated 後台將連結跟內文丟進去編輯即可。
   - 沒用小誌有 slack，其中的 #zine 頻道可以在未進入後台的情況下儲存連結，有需要可以加入。
 
 
