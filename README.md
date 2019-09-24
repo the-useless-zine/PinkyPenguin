@@ -1,4 +1,4 @@
-# [The useless zine 沒用小誌](http://user66891.psee.io/the-useless-zine)
+# [The Useless Zine 沒用小誌](http://user66891.psee.io/the-useless-zine)
 
 > 由拉麵系網美、你才瞎妹以及大李冗浩發行的內容刊物。
 >
