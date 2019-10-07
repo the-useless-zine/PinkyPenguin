@@ -18,6 +18,7 @@
 | [ISSUE 5 人活得好好的，為什麼要工作？](https://theuselesszine.curated.co/issues/5) | [@venetiachou](https://github.com/venetiachou)|
 | [ISSUE 6 我，以及我以外的世界](https://theuselesszine.curated.co/issues/6) | [@psychotalksaboutflims](https://cur.at/eLjduZW?m=web)|
 | [ISSUE 7 我們決定在沒人用的鈔票上使用圖靈的肖像](https://theuselesszine.curated.co/issues/7) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 8 不要像我的人生一樣平庸無奇，卓越的很無聊](https://theuselesszine.curated.co/issues/8) | [@venetiachou](https://github.com/venetiachou)|
 
 
 ## 一些寫給主編看的，懂？
