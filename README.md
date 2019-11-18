@@ -20,6 +20,7 @@
 | [ISSUE 7 我們決定在沒人用的鈔票上使用圖靈的肖像](https://theuselesszine.curated.co/issues/7) | [@bugtender](https://github.com/bugtender)|
 | [ISSUE 8 不要像我的人生一樣平庸無奇，卓越的很無聊](https://theuselesszine.curated.co/issues/8) | [@venetiachou](https://github.com/venetiachou)|
 | [ISSUE 9 2019 年的 Podcast 就是 2007 年的 Blog](https://theuselesszine.curated.co/issues/9) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 10 我們的 ISSUE 10 在有跟沒有之間](https://theuselesszine.curated.co/issues/10) | [@venetiachou](https://github.com/venetiachou)|
 
 
 ## 一些寫給主編看的，懂？
