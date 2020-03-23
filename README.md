@@ -23,6 +23,7 @@
 | [ISSUE 10 我們的 ISSUE 10 在有跟沒有之間](https://theuselesszine.curated.co/issues/10) | [@venetiachou](https://github.com/venetiachou)|
 | [ISSUE 11 他們在脫歐的前一天爆炸](https://theuselesszine.curated.co/issues/11) | [@bugtender](https://github.com/bugtender)|
 | [ISSUE 12 上上下下左右左右ＢＡ](https://theuselesszine.curated.co/issues/12) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 13 準備好為摯愛送行](https://theuselesszine.curated.co/issues/13) | [@bugtender](https://github.com/bugtender)|
 
 ## 一些寫給主編看的，懂？
 
