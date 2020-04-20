@@ -25,7 +25,7 @@
 | [ISSUE 12 上上下下左右左右ＢＡ](https://theuselesszine.curated.co/issues/12) | [@bugtender](https://github.com/bugtender)|
 | [ISSUE 13 準備好為摯愛送行](https://theuselesszine.curated.co/issues/13) | [@bugtender](https://github.com/bugtender)|
 | [ISSUE 14 難道亡美我搞消失，也要說給你聽嗎？](https://theuselesszine.curated.co/issues/14) | [@venetiachou](https://github.com/venetiachou)|
-
+| [ISSUE 15 在球場上與假人吃火鍋是不是搞錯了什麼？](https://theuselesszine.curated.co/issues/15) | [@bugtender](https://github.com/bugtender)|
 
 ## 一些寫給主編看的，懂？
 
