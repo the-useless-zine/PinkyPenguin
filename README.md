@@ -28,6 +28,7 @@
 | [ISSUE 15 在球場上與假人吃火鍋是不是搞錯了什麼？](https://theuselesszine.curated.co/issues/15) | [@bugtender](https://github.com/bugtender)|
 | [ISSUE 16 我就爛！不然你想怎樣](https://theuselesszine.curated.co/issues/16) | [@venetiachou](https://github.com/venetiachou)|
 | [ISSUE 17 不被愛的那個才是第三者](https://theuselesszine.curated.co/issues/17) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 18 歡迎來到動物星球頻道](https://theuselesszine.curated.co/issues/18) | [@venetiachou](https://github.com/venetiachou)|
 
 ## 一些寫給主編看的，懂？
 
