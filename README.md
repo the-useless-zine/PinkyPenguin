@@ -11,24 +11,24 @@
 
 | ISSUE | 主編|
 | ------------------------------ | ------------- |
-| [ISSUE 1 那些年，阿嬤養過的狗](https://theuselesszine.curated.co/issues/1)  | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 2 英國的美食叫做異國美食](https://theuselesszine.curated.co/issues/2) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 3 查詢移民政策之必要](https://theuselesszine.curated.co/issues/3)   | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 4 日本的珍珠奶茶沒有比較好喝](https://theuselesszine.curated.co/issues/4) | [@jiajhenbee](https://github.com/jiajhenbee)|
-| [ISSUE 5 人活得好好的，為什麼要工作？](https://theuselesszine.curated.co/issues/5) | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 6 我，以及我以外的世界](https://theuselesszine.curated.co/issues/6) | [@psychotalksaboutflims](https://cur.at/eLjduZW?m=web)|
-| [ISSUE 7 我們決定在沒人用的鈔票上使用圖靈的肖像](https://theuselesszine.curated.co/issues/7) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 8 不要像我的人生一樣平庸無奇，卓越的很無聊](https://theuselesszine.curated.co/issues/8) | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 9 2019 年的 Podcast 就是 2007 年的 Blog](https://theuselesszine.curated.co/issues/9) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 10 我們的 ISSUE 10 在有跟沒有之間](https://theuselesszine.curated.co/issues/10) | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 11 他們在脫歐的前一天爆炸](https://theuselesszine.curated.co/issues/11) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 12 上上下下左右左右ＢＡ](https://theuselesszine.curated.co/issues/12) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 13 準備好為摯愛送行](https://theuselesszine.curated.co/issues/13) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 14 難道亡美我搞消失，也要說給你聽嗎？](https://theuselesszine.curated.co/issues/14) | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 15 在球場上與假人吃火鍋是不是搞錯了什麼？](https://theuselesszine.curated.co/issues/15) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 16 我就爛！不然你想怎樣](https://theuselesszine.curated.co/issues/16) | [@venetiachou](https://github.com/venetiachou)|
-| [ISSUE 17 不被愛的那個才是第三者](https://theuselesszine.curated.co/issues/17) | [@bugtender](https://github.com/bugtender)|
-| [ISSUE 18 歡迎來到動物星球頻道](https://theuselesszine.curated.co/issues/18) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 1 那些年，阿嬤養過的狗](https://theuselesszine.substack.com/p/1)  | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 2 英國的美食叫做異國美食](https://theuselesszine.substack.com/p/2) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 3 查詢移民政策之必要](https://theuselesszine.substack.com/p/3)   | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 4 日本的珍珠奶茶沒有比較好喝](https://theuselesszine.substack.com/p/4) | [@jiajhenbee](https://github.com/jiajhenbee)|
+| [ISSUE 5 人活得好好的，為什麼要工作？](https://theuselesszine.substack.com/p/5) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 6 我，以及我以外的世界](https://theuselesszine.substack.com/p/6) | [@psychotalksaboutflims](https://cur.at/eLjduZW?m=web)|
+| [ISSUE 7 我們決定在沒人用的鈔票上使用圖靈的肖像](https://theuselesszine.substack.com/p/7) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 8 不要像我的人生一樣平庸無奇，卓越的很無聊](https://theuselesszine.substack.com/p/8) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 9 2019 年的 Podcast 就是 2007 年的 Blog](https://theuselesszine.substack.com/p/9) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 10 我們的 ISSUE 10 在有跟沒有之間](https://theuselesszine.substack.com/p/10) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 11 他們在脫歐的前一天爆炸](https://theuselesszine.substack.com/p/11) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 12 上上下下左右左右ＢＡ](https://theuselesszine.substack.com/p/12) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 13 準備好為摯愛送行](https://theuselesszine.substack.com/p/13) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 14 難道亡美我搞消失，也要說給你聽嗎？](https://theuselesszine.substack.com/p/14) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 15 在球場上與假人吃火鍋是不是搞錯了什麼？](https://theuselesszine.substack.com/p/15) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 16 我就爛！不然你想怎樣](https://theuselesszine.substack.com/p/16) | [@venetiachou](https://github.com/venetiachou)|
+| [ISSUE 17 不被愛的那個才是第三者](https://theuselesszine.substack.com/p/17) | [@bugtender](https://github.com/bugtender)|
+| [ISSUE 18 歡迎來到動物星球頻道](https://theuselesszine.substack.com/p/18) | [@venetiachou](https://github.com/venetiachou)|
 
 ## 一些寫給主編看的，懂？
 
